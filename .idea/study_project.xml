@@ -2170,7 +2170,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Properties" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2190,17 +2190,17 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="3" />
+                                      <option name="length" value="73" />
                                       <option name="line" value="3" />
                                       <option name="possibleAnswer" value="set(v: Int?) {&#10;            field = v&#10;            counter++&#10;        }" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="8" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2215,7 +2215,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Lazy property" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2235,12 +2235,12 @@
                                           <option name="myStart" value="4" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="var value: Int? = null" />
-                                      <option name="selected" value="false" />
-                                      <option name="start" value="4" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="start" value="0" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -2253,17 +2253,17 @@
                                           <option name="myStart" value="12" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="line" value="4" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="13" />
                                       <option name="possibleAnswer" value="if (value == null) {&#10;                value = initializer()&#10;            }&#10;            return value!!" />
                                       <option name="selected" value="false" />
-                                      <option name="start" value="12" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="start" value="0" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2278,7 +2278,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="Delegates examples" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2298,17 +2298,17 @@
                                           <option name="myStart" value="26" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="18" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="lazy(initializer)" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="26" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2323,7 +2323,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Delegates how it works" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2358,12 +2358,12 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="23" />
                                       <option name="line" value="12" />
                                       <option name="possibleAnswer" value="return timeInMillis!!.toDate()" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="8" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -2376,17 +2376,17 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="line" value="16" />
+                                      <option name="length" value="37" />
+                                      <option name="line" value="15" />
                                       <option name="possibleAnswer" value="timeInMillis = value.toMillis()" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="8" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2410,7 +2410,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Function literals with receiver" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2430,12 +2430,12 @@
                                           <option name="myStart" value="38" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="13" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="this % 2 == 0" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="38" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -2448,17 +2448,17 @@
                                           <option name="myStart" value="37" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="14" />
                                       <option name="line" value="2" />
                                       <option name="possibleAnswer" value="this % 2 != 0" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="37" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2473,7 +2473,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="String and map builders" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2493,17 +2493,17 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="146" />
                                       <option name="line" value="2" />
                                       <option name="possibleAnswer" value="fun &lt;K, V&gt; buildMap(build: HashMap&lt;K, V&gt;.() -&gt; Unit): Map&lt;K, V&gt; {&#10;    val map = HashMap&lt;K, V&gt;()&#10;    map.build()&#10;    return map&#10;}" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="0" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2518,7 +2518,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="The function apply" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2538,17 +2538,17 @@
                                           <option name="myStart" value="40" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="0" />
                                       <option name="possibleAnswer" value="f(); return this" />
                                       <option name="selected" value="false" />
-                                      <option name="start" value="40" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="start" value="38" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2563,7 +2563,7 @@
                     <Task>
                       <option name="index" value="4" />
                       <option name="name" value="Html builders" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2583,12 +2583,12 @@
                                           <option name="myStart" value="15" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="18" />
                                       <option name="line" value="3" />
                                       <option name="possibleAnswer" value="(color = getTitleColor())" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="15" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -2601,17 +2601,17 @@
                                           <option name="myStart" value="12" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="line" value="15" />
+                                      <option name="length" value="315" />
+                                      <option name="line" value="16" />
                                       <option name="possibleAnswer" value="for ((index, product) in products.withIndex()) {&#10;                tr {&#10;                    td (color = getCellColor(index, 0)) {&#10;                        text(product.description)&#10;                    }&#10;                    td (color = getCellColor(index, 1)) {&#10;                        text(product.price)&#10;                    }&#10;                    td (color = getCellColor(index, 2)) {&#10;                        text(product.popularity)&#10;                    }&#10;                }&#10;            }" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="12" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2671,7 +2671,7 @@
                     <Task>
                       <option name="index" value="5" />
                       <option name="name" value="Builders how it works" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2691,17 +2691,17 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="42" />
+                                      <option name="length" value="30" />
                                       <option name="line" value="5" />
                                       <option name="possibleAnswer" value="1 to c, 2 to b, 3 to b, 4 to c" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="8" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
@@ -2725,7 +2725,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Generic functions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2745,17 +2745,17 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="26" />
+                                      <option name="length" value="230" />
                                       <option name="line" value="2" />
                                       <option name="possibleAnswer" value="fun &lt;T, C: MutableCollection&lt;T&gt;&gt; Collection&lt;T&gt;.partitionTo(first: C, second: C, predicate: (T) -&gt; Boolean): Pair&lt;C, C&gt; {&#10;    for (element in this) {&#10;        if (predicate(element)) {&#10;            first.add(element)&#10;        } else {&#10;            second.add(element)&#10;        }&#10;    }&#10;    return Pair(first, second)&#10;}" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="0" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
